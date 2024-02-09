@@ -24,7 +24,7 @@ numbers.forEach(function (n) {
     console.log(n);
 })
 
-// Arrow function in a callback, a callback is passing a function into another function like seen below 
+// Arrow function in a callback, a callback is passing a function into another function like seen below
 numbers.forEach((n) => console.log(n));
 
 console.log(add(1,2));
