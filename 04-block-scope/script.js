@@ -27,4 +27,4 @@ function run() {
     var d = 100;
 }
 
-// console.log(var); this would through a error though
+// console.log(var); this would throw a error though
